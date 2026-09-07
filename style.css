@@ -1,0 +1,28 @@
+body {
+    background-image: url(pics/esaias-tan-WmpCzw4QXLA-unsplash.jpg);
+    background-repeat: no-repeat;
+    margin: 0;
+    background-size: 100vw, 100vh;
+    background-attachment: fixed;
+    background-position: center;
+}
+#contaner {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.input {
+    border-radius: 6px;
+    border-style: solid;
+    height: 17px;
+    width: auto;
+    backdrop-filter: blur(10px);
+    background-color: rgba(105, 104, 104, 0.2);
+    border: blakc;
+}
+.input::placeholder{
+    color: rgb(30, 30, 30);
+}
