@@ -1,10 +1,11 @@
 body {
-    background-image: url(esaias-tan-WmpCzw4QXLA-unsplash.jpg);
+    background-image: url(pics/esaias-tan-WmpCzw4QXLA-unsplash.jpg);
     background-repeat: no-repeat;
     margin: 0;
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
+    flex-wrap: wrap;
 }
 #container {
     display: flex;
@@ -17,12 +18,18 @@ body {
 .input {
     border-radius: 6px;
     border-style: solid;
-    height: 20px;
+    height: 35px;
     width: auto;
     backdrop-filter: blur(10px);
     background-color: rgba(105, 104, 104, 0.2);
     border: black;
+    transition: transform 0.2s ease, background-color 0.2s ease;
 }
 .input::placeholder{
     color: rgb(30, 30, 30);
+}
+input:hover{
+    transform: scale(1.07);
+    background-color: rgba(38, 38, 38, 0.2);
+    cursor: text;
 }
