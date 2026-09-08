@@ -1,19 +1,20 @@
 # Glassmorphism Login UI Concept
 
-A minimalist login interface featuring a translucent glassmorphism card over a mountain landscape backdrop. Built with HTML5 and CSS3.
+A simple, lightweight login UI built with HTML5 and CSS3. Designed as a clean starter template or sketch to tweak and build upon for your own project.
 
 ## Features
 
-* **Glassmorphism Styling:** Translucent containers and blurred inputs using `backdrop-filter: blur(10px)`.
-* **Hover Micro-Interactions:** Smooth scale transformations and color shifts on input focus/hover.
-* **Pure CSS Layout:** Centered full-screen layout built entirely with Flexbox.
-* **Full-Cover Background:** High-resolution fixed photography backdrop.
+* **Glass Effect:** Blurred, translucent card and input fields using `backdrop-filter`.
+* **Hover Effects:** Simple scale transitions when hovering over inputs.
+* **Flexbox Layout:** Centered full-screen layout with zero JavaScript dependencies.
+* **Easy to Customize:** Clean code structure meant to serve as a base for custom styles or functional backends.
 
-## Tech Stack
+## Files
 
-* HTML5
-* CSS3 (Flexbox & Glassmorphism)
+* `index.html` - Form structure
+* `style.css` - Glassmorphism rules and transitions
+* `esaias-tan-WmpCzw4QXLA-unsplash.jpg` - Background image
 
 ## Author
 
-* Created by **cfh0714**
+* **cfh0714**
