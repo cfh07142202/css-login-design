@@ -19,5 +19,3 @@ A simple login UI made with HTML and CSS. This project was mainly made to experi
 ## Author
 
 **cfh0714**
-
-Background photo by [Esaias Tan](https://unsplash.com/@esaiast) on Unsplash.
