@@ -15,9 +15,7 @@ A minimalist, static login interface concept built with modern HTML5 and pure CS
 
 ## Project Preview
 
-Place a screenshot of your interface in the project folder and update the path below:
-
-(esaias-tan-WmpCzw4QXLA-unsplash.jpg)
+![Login UI Screenshot](pics/esaias-tan-WmpCzw4QXLA-unsplash.jpg)
 
 ## Author
 
