@@ -11,7 +11,7 @@ A lightweight, customizable login card interface built with HTML5 and CSS3. Desi
 
 ## Project Structure
 
-* `index.html` - Form structure, inputs, submit button, and footer credit
+* `index.html` - Form structure, inputs, submit button
 * `style.css` - Glassmorphism rules, transitions, positioning, and hover states
 * `esaias-tan-WmpCzw4QXLA-unsplash.jpg` - Background photo asset
 
