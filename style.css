@@ -43,3 +43,23 @@ body {
 .input::placeholder{
     color: rgb(0, 0, 0);
 }
+#button1 {
+    height: 35px;
+    width: 90px;
+    border-radius: 15px;
+    border: 1px;
+    border-color: #000000;
+    border-style: solid;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+#button1:hover{
+    transform: scale(1.06);
+    background-color: #d80202;
+    cursor: pointer;
+}
+/* Footer Credit - Feel free to remove*/
+#credit {
+    position: absolute;
+    bottom: 7px;
+    font-family: sans-serif;
+}
