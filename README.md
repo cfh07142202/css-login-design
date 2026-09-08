@@ -7,8 +7,7 @@ A lightweight, customizable login card interface built with HTML5 and CSS3. Desi
 * **Glassmorphism Styling:** Blurred, translucent card background and input fields using `backdrop-filter: blur(10px)`.
 * **Hover Micro-Interactions:** Smooth scale transformations and color transitions on text inputs and the submit button.
 * **Pure CSS Layout:** Fully centered full-screen display powered by Flexbox without any JavaScript dependencies.
-* **Proper Form Markup:** Native HTML `<form>` structure with text fields and a functional submit button ready for backend integration.
-* **Removable Footer Credit:** Includes a small, non-intrusive footer tag that can be customized or deleted.
+* **Proper Form Markup:** Native HTML `<form>` structure with text fields and a functional submit button ready for backend 
 
 ## Project Structure
 
