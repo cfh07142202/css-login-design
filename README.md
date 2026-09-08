@@ -18,4 +18,3 @@ A lightweight, customizable login card interface built with HTML5 and CSS3. Desi
 ## Author
 
 * **cfh0714**
-* Background photo by [Esaias Tan](https://unsplash.com/@esaiast) on Unsplash
