@@ -7,8 +7,5 @@ A minimalist login interface built with HTML5 and CSS3 featuring translucent gla
 - **Hover Micro-Animations:** Smooth scaling transforms on input hover.
 - **Pure CSS Layout:** Built entirely with Flexbox without JavaScript.
 
-## Preview
-![Login UI Screenshot](pics/esaias-tan-WmpCzw4QXLA-unsplash.jpg)
-
 ## Author
 - Created by **cfh0714**
