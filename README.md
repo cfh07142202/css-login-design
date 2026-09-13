@@ -1,20 +1,55 @@
-# Glassmorphism Login UI Concept
+# Glassmorphism Login UI
 
-A simple login UI made with HTML and CSS. This project was mainly made to experiment with glassmorphism, background images, and basic hover effects.
+A simple login page made with HTML, CSS and JavaScript.
+
+I made this project mainly to experiment with **glassmorphism**, background images, blur effects and some basic hover animations. It's just a front-end project at the moment, so there isn't any actual login/authentication system behind it.
 
 ## Features
 
-* **Glass Effect:** Uses a blurred, translucent background for the login card and input fields.
-* **Hover Effects:** The inputs and submit button change size and colour when hovered over.
-* **Flexbox Layout:** The login form is centered on the page using Flexbox.
-* **Form Structure:** Uses a normal HTML `<form>` with username and password fields and a submit button. It can be used as a starting point for adding backend authentication later.
-* **Footer Credit:** Includes a small footer credit that can be removed or changed.
+* Glassmorphism-style login box
+* Blurred and transparent backgrounds
+* Full-screen background image
+* Hover effects on the inputs and submit button
+* Flexbox layout to centre the login box
+* Username and password fields
+* A page for users who have JavaScript disabled
 
 ## Files
 
-* `index.html` - Contains the login form and footer.
-* `style.css` - Contains the styling, background, glass effect, and hover effects.
-* `esaias-tan-WmpCzw4QXLA-unsplash.jpg` - Background image used for the page.
+```text
+.
+├── index.html
+├── javascript-dependency.html
+├── JavaScript.js
+├── css/
+│   └── style.css
+└── images/
+    └── esaias-tan-WmpCzw4QXLA-unsplash.jpg
+```
+
+* `index.html` - The main login page
+* `javascript-dependency.html` - Shown if JavaScript is disabled
+* `JavaScript.js` - JavaScript for the login page
+* `css/style.css` - All the styling and effects
+* `images/esaias-tan-WmpCzw4QXLA-unsplash.jpg` - The background image
+
+## Built With
+
+* HTML
+* CSS
+* JavaScript
+
+## Running It
+
+There aren't any dependencies or anything you need to install.
+
+Just download or clone the repo and open `index.html` in your browser.
+
+## Current State
+
+This is mainly a UI project right now. The login doesn't actually check or save usernames and passwords yet.
+
+The JavaScript is currently set up so I can add that functionality later.
 
 ## Author
 
