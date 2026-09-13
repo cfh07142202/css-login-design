@@ -1,0 +1,97 @@
+body {
+    background-image: url("../images/esaias-tan-WmpCzw4QXLA-unsplash.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+#container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+#background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    width: 250px;
+    flex-direction: column;
+    backdrop-filter: blur(10px);
+    background-color: rgba(105, 104, 104, 0.2);
+    border-radius: 10px;
+    gap: 12px;
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+}
+.input {
+    height: 35px;
+    width: auto;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: black;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+    background-color: rgba(112, 112, 112, 0.256);
+    backdrop-filter: blur(10px);
+}
+.input:hover{
+    transform: scale(1.10);
+    background-color: #21212172;
+    cursor: text;
+}
+.input::placeholder{
+    color: rgb(0, 0, 0);
+}
+#SubmitButton {
+    height: 35px;
+    width: 90px;
+    border-radius: 15px;
+    border: 1px;
+    border-color: #000000;
+    border-style: solid;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+#SubmitButton:hover{
+    transform: scale(1.06);
+    background-color: #d80202;
+    cursor: pointer;
+}
+/* the rest of this css file is for the java script dependency page*/
+#contanier2 {
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#background2 {
+    box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
+    flex-direction: column;
+    font-size: medium;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 120px;
+    border-radius: 16px;
+    background-color:rgba(36, 36, 36, 0.2);
+    backdrop-filter: blur(10px);
+    align-items: center;
+    gap: 7px;
+    padding: 24px 16px;
+}
+#learn-button {
+    background-color: rgba(23, 23, 23, 0.2);
+    backdrop-filter: blur(10px);
+    height: 70px;
+    width: 100px;
+    border-radius: 15px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+#learn-button:hover{
+    transform: scale(1.1);
+    background-color: #1d1d1d33;
+}
