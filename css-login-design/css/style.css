@@ -1,3 +1,4 @@
+/* sorry for my poor naming*/
 body {
     background-image: url("../images/esaias-tan-WmpCzw4QXLA-unsplash.jpg");
     background-position: center;
@@ -25,6 +26,7 @@ body {
     gap: 12px;
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
+/* password and username field*/
 .input {
     height: 35px;
     width: auto;
