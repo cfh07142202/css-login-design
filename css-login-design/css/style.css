@@ -13,6 +13,7 @@ body {
     justify-content: center;
     min-height: 100vh;
 }
+/* glass card*/
 #background {
     display: flex;
     justify-content: center;
@@ -26,7 +27,7 @@ body {
     gap: 12px;
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
 }
-/* password and username field*/
+/* password and username fields*/
 .input {
     height: 35px;
     width: auto;
@@ -66,6 +67,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+/* glass card*/
 #background2 {
     box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37);
     flex-direction: column;
