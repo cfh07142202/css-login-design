@@ -45,12 +45,6 @@ There aren't any dependencies or anything you need to install.
 
 Just download or clone the repo and open `index.html` in your browser.
 
-## Current State
-
-This is mainly a UI project right now. The login doesn't actually check or save usernames and passwords yet.
-
-The JavaScript is currently set up so I can add that functionality later.
-
 ## Author
 
 **cfh0714**
