@@ -20,7 +20,8 @@ I made this project mainly to experiment with **glassmorphism**, background imag
 .
 ├── index.html
 ├── javascript-dependency.html
-├── JavaScript.js
+├── js/
+│   └── JavaScript.js
 ├── css/
 │   └── style.css
 └── images/
