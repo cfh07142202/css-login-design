@@ -8,7 +8,6 @@ I made this project mainly to experiment with **glassmorphism**, background imag
 
 * Glassmorphism-style login box
 * Blurred and transparent backgrounds
-* Full-screen background image
 * Hover effects on the inputs and submit button
 * Flexbox layout to centre the login box
 * Username and password fields
